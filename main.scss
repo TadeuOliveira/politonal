@@ -1,0 +1,27 @@
+//$body-bg: #d3af71; //marrom claro
+@import url('https://fonts.googleapis.com/css?family=Metamorphous');
+
+//escala será de amarelo a marrom
+$white:    #fffcdd;
+$gray-100: #f5e5c3;
+$gray-200: #eed09c;
+$gray-300: #f7d990;
+$gray-400: #ffca60;
+$gray-500: #d97f27;
+$gray-600: #d19a3f;
+$gray-700: #d7b262;
+$gray-800: #bb882c;
+$gray-900: #8e5721;
+$black:    #4e2e1f;
+
+$primary:       #5b7955; //verde musgo claro
+$secondary:     #475138; //verde musgo escuro
+$success:       #2a7771; //verde piscina
+$info:          #71726c; //cinza
+$warning:       #bc5228; //laranja forte
+$danger:        #ac2023; //vermelho forte
+$light:         #c2c76b; //verde musgo bem claro
+$dark:          #4a5022; //verde musgo bem escuro
+
+// Bootstrap and its default variables
+@import "node_modules/bootstrap/scss/bootstrap";
